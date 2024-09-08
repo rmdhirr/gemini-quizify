@@ -1,1 +1,1 @@
-# mission-quizify
+# Gemini Quizify
