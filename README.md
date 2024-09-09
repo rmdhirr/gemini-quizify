@@ -11,7 +11,7 @@ The project also incorporates:
 
 ---
 
-### **How It Works**
+## **How It Works**
 
 **Quizify** uses a combination of AI models and machine learning technologies offered by **Google Vertex AI** to turn PDFs into interactive multiple-choice quizzes. Here’s a detailed breakdown:
 
