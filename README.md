@@ -1,8 +1,8 @@
-# **📝 Quizify**
+# **📝 PDF Quizify**
 
-**Quizify: AI-Driven Quiz Builder**
+**PDF Quizify: AI-Driven Quiz Builder**
 
-Quizify is an AI-powered tool that automatically generates multiple-choice quizzes from user-uploaded PDFs. It leverages **Google Vertex AI**, a machine learning platform, to process the data. Specifically, **textembedding-gecko@003**, a model within **Vertex AI**, converts the document text into embeddings. These embeddings are then passed to **Google Gemini**, also part of **Vertex AI**, to generate questions and answers, ensuring the quiz remains true to the source content. The results are returned in a structured JSON format using **Structured Output Parsing**, which is displayed through an interactive interface built with **Streamlit**.
+PDF Quizify is an AI-powered tool that automatically generates multiple-choice quizzes from user-uploaded PDFs. It leverages **Google Vertex AI**, a machine learning platform, to process the data. Specifically, **textembedding-gecko@003**, a model within **Vertex AI**, converts the document text into embeddings. These embeddings are then passed to **Google Gemini**, also part of **Vertex AI**, to generate questions and answers, ensuring the quiz remains true to the source content. The results are returned in a structured JSON format using **Structured Output Parsing**, which is displayed through an interactive interface built with **Streamlit**.
 
 The project also incorporates:
 - **Google Service Account** for authentication
@@ -13,7 +13,7 @@ The project also incorporates:
 
 ## **How It Works**
 
-**Quizify** uses a combination of AI models and machine learning technologies offered by **Google Vertex AI** to turn PDFs into interactive multiple-choice quizzes. Here’s a detailed breakdown:
+**PDF Quizify** uses a combination of AI models and machine learning technologies offered by **Google Vertex AI** to turn PDFs into interactive multiple-choice quizzes. Here’s a detailed breakdown:
 
 1. **Document Ingestion**:
    - Users upload PDFs through the **Streamlit** interface.
