@@ -83,6 +83,9 @@ if __name__ == "__main__":
         with st.form("Multiple Choice Question"):
             st.subheader(f"Question {question_index + 1}")
 
+            # Display the question text
+            st.write(f"Question: {current_question['question']}")
+
             # Retrieve the current question and choices
             choices = [f"{choice['key']}) {choice['value']}" for choice in current_question["choices"]]
 
