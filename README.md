@@ -57,8 +57,4 @@ The project also incorporates:
 ## **Screenshots**
 ![Screenshot 2024-09-12 015323](https://github.com/user-attachments/assets/e6c9cb9f-107f-42e2-9ff7-5722fe967eab)
 
-![Screenshot 2024-09-12 015355](https://github.com/user-attachments/assets/3d3dc088-d9a3-44aa-99a6-293dc6aac361)
-
-![Screenshot 2024-09-12 015439](https://github.com/user-attachments/assets/6b23a793-6d3b-4265-be79-e1454a835def)
-
 
