@@ -52,3 +52,10 @@ The project also incorporates:
 - Secure access to **Vertex AI** is managed via a **Google Service Account**.
 
 ---
+
+
+## **Screenshots**
+![Screenshot 2024-09-12 015323](https://github.com/user-attachments/assets/c7394894-d4c5-40d6-863b-42614f1b1f03)
+![Screenshot 2024-09-12 015355](https://github.com/user-attachments/assets/202efa56-ba70-4170-9a90-cf2c85e24add)
+![Screenshot 2024-09-12 015439](https://github.com/user-attachments/assets/a4729862-dbf1-40f3-8610-3439cf00f898)
+
