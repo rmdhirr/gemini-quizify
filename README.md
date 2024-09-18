@@ -53,6 +53,27 @@ The project also incorporates:
 
 ---
 
+## **Program Structure**
+
+### **Embedding Client**
+![image](https://github.com/user-attachments/assets/f3a980f2-5898-43dc-aa50-1bdc5f7a4b81)
+
+### **Document Ingestion**
+![image](https://github.com/user-attachments/assets/e116e08b-f332-4606-8f45-d0d9071577a6)
+
+### **Quiz Generation**
+![image](https://github.com/user-attachments/assets/71be70e1-7587-4e16-8199-1dc63444d936)
+
+### **Generate Quiz Algorithm**
+![image](https://github.com/user-attachments/assets/2c06697e-bc7e-47d0-b87f-f388e51d9b59)
+
+### **Screen State Handling**
+![image](https://github.com/user-attachments/assets/a3176261-21de-4586-8ae6-88c7cf55f59a)
+
+### **Question Layout (in JSON)**
+![image](https://github.com/user-attachments/assets/27d6a590-1217-4d78-8f9c-ca1cda2d26d3)
+
+
 
 ## **Screenshots**
 ![Screenshot 2024-09-12 015323](https://github.com/user-attachments/assets/e6c9cb9f-107f-42e2-9ff7-5722fe967eab)
